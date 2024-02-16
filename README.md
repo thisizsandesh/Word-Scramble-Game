@@ -3,7 +3,7 @@ The Word Scramble Game is an engaging and interactive web application that chall
 
 ## Demo
 
-[Live Demo](#) 
+[Live Demo](https://thisizsandesh.github.io/Word-Scramble-Game/) 
 
 [Game Screenshot](screenshot.png) ![Screenshot](https://github.com/thisizsandesh/Word-Scramble-Game/assets/147138352/3b020183-f6fe-4679-b925-f14d6552e5d5)
 
